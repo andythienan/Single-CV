@@ -1,1 +1,1 @@
-https://andythienan.github.io/Single-CV/
+(https://github.com/andythienan/Single-CV.git)
